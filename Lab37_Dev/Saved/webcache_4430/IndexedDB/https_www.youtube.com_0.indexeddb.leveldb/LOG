@@ -1,0 +1,15 @@
+2025/03/16-20:22:02.018 37e3c Reusing MANIFEST F:/GitHub/terravrmuseum_dev/Lab37_Dev/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/16-20:22:02.018 37e3c Recovering log #4
+2025/03/16-20:22:02.018 37e3c Reusing old log F:/GitHub/terravrmuseum_dev/Lab37_Dev/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000004.log 
+2025/03/16-20:23:04.362 d40c Level-0 table #8: started
+2025/03/16-20:23:04.368 d40c Level-0 table #8: 246054 bytes OK
+2025/03/16-20:23:04.373 d40c Delete type=0 #4
+2025/03/16-20:23:04.373 d40c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/03/16-20:23:04.373 d40c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x09\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 1160 : 1
+2025/03/16-20:23:04.373 d40c Compacting 1@1 + 1@2 files
+2025/03/16-20:23:04.377 d40c Generated table #9@1: 249 keys, 37101 bytes
+2025/03/16-20:23:04.377 d40c Compacted 1@1 + 1@2 files => 37101 bytes
+2025/03/16-20:23:04.382 d40c compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/16-20:23:04.382 d40c Delete type=2 #5
+2025/03/16-20:23:04.382 d40c Delete type=2 #8
+2025/03/16-20:23:04.383 d40c Manual compaction at level-1 from '\x00\x09\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 1160 : 1 .. (end); will stop at (end)
